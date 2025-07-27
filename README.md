@@ -31,7 +31,7 @@ An interactive and user-friendly quiz application built for educational, trainin
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/professional-quiz-app.git
+   git clone https://github.com/8585vishal/professional-quiz-app.git
    cd professional-quiz-app
 Install dependencies
 
